@@ -2,12 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This Prework study guide was created by students to help and study the topics and projects on HTML, CSS, Git, and JavaSript.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My motivation is to build this project was for the bootcamp students to have an easy way to recall roundational principles of coding. By doing this it will also help be a guild throughout our coding experiance.
 
 ## Installation
 
